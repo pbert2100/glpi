@@ -12,7 +12,9 @@
 	],
 	"require": {
 		"php": ">=5.5.0",
-		"ext-fileinfo": "*"
+		"ext-fileinfo": "*",
+		"ext-gd": "*",
+		"ext-intl": "*"
 	},
 	"require-dev": {
 		"phpunit/phpunit": "~4.8|~9.5.2",
